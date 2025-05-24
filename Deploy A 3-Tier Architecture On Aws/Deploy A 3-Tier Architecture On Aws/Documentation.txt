@@ -181,8 +181,6 @@ Next delete both AMIs
 Next delete both Snapshots of AMIs
 Next delete DB
 Next delete S3 Bucket
-Next delete Certificate
-Next delete Route 53 record
 Next delete NAT GW
 Next delete Elastic IP. This came because of NATGW
 Next delete VPC
