@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/awsshivs/ab3-web-app-backend.git"
+    "url": "https://github.com/shivanibarya/Deploy-A-three-Tier-Architecture-On-Aws.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/awsshivs/ab3-web-app-backend/issues"
+    "url": "https://github.com/shivanibarya/Deploy-A-three-Tier-Architecture-On-Aws/issues"
   },
-  "homepage": "https://github.com/awsshivs/ab3-web-app-backend#readme",
+  "homepage": "https://github.com/shivanibarya/Deploy-A-three-Tier-Architecture-On-Aws#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
