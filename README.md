@@ -19,7 +19,7 @@ A 3-Tier Architecture app separates the presentation, application, and database 
 ![image](https://github.com/user-attachments/assets/64b09668-6610-48d6-8a0d-627d7d11cab7)
 
 
-                               System architecture diagram
+                                        System architecture diagram
 
                                
 
