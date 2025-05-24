@@ -15,3 +15,12 @@ A 3-Tier Architecture app separates the presentation, application, and database 
 
 1. **Fork and Clone** the repository to get started.  
 2. ⭐ Star the repository to show your support!
+
+screenshot of project
+
+
+
+![Screenshot 2025-05-13 104557](https://github.com/user-attachments/assets/0f01bb22-c925-4030-8e1d-818c414fa926)
+
+ 
+                                     
