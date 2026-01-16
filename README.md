@@ -9,7 +9,10 @@ A 3-Tier Architecture app separates the presentation, application, and database 
 - **S3**  
 - **IAM**  
 - **EC2**  
-- **RDS**  
+- **RDS**
+
+<img width="1400" height="937" alt="image" src="https://github.com/user-attachments/assets/76c79622-007b-4c8a-bd15-691523a6661f" />
+
 
 ## 🛠️ **Getting Started**
 
